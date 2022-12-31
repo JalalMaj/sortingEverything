@@ -1,7 +1,7 @@
 import java.util.Scanner
 
-const val DATA_TYPE1 = "-dataType"
-const val SORT_TYPE1 = "-sortingType"
+const val DATA_TYPE = "-dataType"
+const val SORT_TYPE = "-sortingType"
 fun main(args: Array<String>) {
 
     // Defines Objects required
